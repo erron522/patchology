@@ -1,0 +1,55 @@
+div.headline {
+   /*line-height:39px;*/
+}
+
+p.checkbox_copy {
+		/*margin-top:-5px;*/
+	}
+	
+div.r-col {
+    /*padding: 0 0 37px;*/
+	min-height:0;
+	padding-bottom:19px;
+}
+
+div.rules {
+	width:213px;
+}
+
+form input.form_submit {
+}
+
+/*div.ie-form-fix {
+	float:left;
+	height:141px;
+}*/
+
+/* IE7, IE8 */
+div.ie-form-fix {height/*\**/:339px\9;}
+
+/* IE7, IE8 */
+div.r-col { padding/*\**/: 0 0 19px\9; }
+
+@media screen and (max-width: 1023px) {
+	div.headline {
+	   /*line-height:35px;*/
+	}
+	
+	div.r-col {
+		padding: 0 0 19px;
+	}
+	/*div.ie-form-fix {
+		height:379px;
+	}*/
+
+}
+
+@media screen and (max-width: 567px) {
+	div.headline {
+	   /*line-height:30px;*/
+	   margin-top:10px;
+	}
+	
+	
+}
+

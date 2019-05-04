@@ -1,0 +1,651 @@
+input.checkbox {
+  background-color: #9f8550; }
+
+html, body { 
+	margin:0; 
+	padding:0;
+	height:100%;
+	border:0 none;
+	background-color:#6ea1d6;
+	background:/*linear-gradient(rgba(0, 0, 0, 0.09), rgba(0, 0, 0, 0.4)),*/ url("../images/background_patchology_3x.jpg") no-repeat center center fixed; 
+	/*overflow: auto;*/
+	  -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	font-family: 'Quattrocento Sans', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+}
+
+div.col-xs-12.mobile_image {
+		display: none !important;
+}
+/* IE7, IE8 */
+html, body  { 
+	background/*\**/: #000\9; 
+}
+div.main {
+}
+
+/*div.content-col {
+  background-color: rgba(255,255,255, 1);
+  	
+  
+}*/
+div.fullheight {
+}
+
+div.center {
+	padding:0px !important;
+}
+
+.content-col.col-xs-10.col-xs-offset-1.col-sm-7.col-sm-offset-0.col-md-6.col-md-offset-0.col-lg-5.col-lg-offset-1 {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+	padding-left: 25px;
+	height: 946px;
+	background-color:rgba(255,255,255, 0.8) !important;
+	margin-left: -14.666667%;
+}
+
+div.header_form {
+	background-color: #1fa2af;
+		
+	}
+	
+.form-group {
+    height: 57px;
+		
+	}
+label {
+	display: block;
+	font-weight: 100;
+		
+}
+label-title {
+	font-size:12px !important;
+	
+}
+	
+.copy, ul, {
+  color:#858587;
+  font-size: 14px;
+  line-height: 23px;
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-style: normal;	
+}
+
+.primary-color {
+  color: #000;
+}
+h1.header {
+  margin-top: 13px;
+  font-size: 50px;
+  text-align: left;
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-weight:lighter;
+  letter-spacing: 2px;	
+}
+h1.headline {
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-weight:lighter;
+  font-size: 50px;  	
+  margin-top: -5px;	
+  margin-bottom: 9px;
+  line-height: 57px;
+  text-transform: uppercase;
+  text-align: left;
+  letter-spacing: 2px;	
+}
+/*h2.subheadline {
+  font-size: 20px;
+  margin-left: 40px;
+  margin-right: 40px;	
+  line-height: 30px;
+  font-style: italic;
+  font-family: 'Quattrocento Sans', sans-serif;
+  text-align: center;	
+}*/
+ul {
+  margin: 0;
+  padding-left: 15px;
+  border-bottom: 1px solid #9f8550;
+  	
+}
+span {
+	color: #b6518a;
+	}
+li {
+  padding: 10px 0;
+}
+.copy {
+  margin: 20px 0px 19px 4px;
+  line-height: 32px;
+  text-align: left;
+  font-size: 17px;
+}
+#error_msg {
+  font-style: italic;	
+  color: #1fa2af;
+  font-size: 17px;
+  margin-bottom: 15px;
+}
+input.formfield_first_name,
+input.formfield_last_name,
+input.formfield_email {
+  width: 100%;
+  margin-bottom: 10px;
+  height: 36px;
+}
+input.formfield_first_name,
+input.formfield_last_name,
+input.formfield_email,
+input.formfield_zip {
+	padding-left:5px;
+}
+input[type="text"]:focus,
+input[type="checkbox"]:focus,
+input.formfield_first_name:focus,
+input.formfield_last_name:focus,
+input.formfield_email:focus {
+  border-color:  #1FA2AF;
+  /*box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset, 0px 0px 8px rgba(159,133,80,1.00);*/
+  outline: 0 none;
+  font-style: italic;
+}
+
+.blk-bar{
+	background-color: #000;
+    height: 10px;
+    width: 110px;
+    margin-bottom: 26px;	
+	}
+input.formfield_zip {
+  width: 100%;
+  margin-bottom: 20px;
+  font-style: italic;
+  height: 36px;
+}
+input.formfield_zip:focus {
+  border-color: #1FA2AF;
+  /*box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset, 0px 0px 8px rgba(159,133,80,1.00);*/
+  outline: 0 none;
+}
+.tclink {
+  color: #58595b;
+  text-decoration: underline;
+}
+.tclink:hover {
+  color: #1FA2AF;
+  
+}
+.btn {
+  font-size: 17px;
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-weight: lighter;
+  letter-spacing: 2px; 	
+  border-radius: 0px;
+  background-color: #3fbfad;
+  margin: 20px 0 30px;
+  width: 182px;
+  height: 49px;
+  color: white;	
+}
+.btn:hover {
+  background-color: #d0f6f1;
+}
+
+div#st-1 div.st-btn {
+text-align: left !important;
+}
+
+#st-1  {
+text-align: left !important;
+}
+
+
+
+div.social-buttons div.st-btn {
+	background-color:#3fbfad !important;
+}
+
+div.copyright p {
+    font-family: 'Quattrocento Sans', sans-serif;
+	font-size: 13px;
+	margin-top: 20px;
+	margin-bottom:38px;
+	text-align: center;
+}
+
+.logo { 
+	margin-left: -24.666667%;
+    margin-top: 14px;
+}
+
+
+
+.logos {
+  margin: 15px 0 30px;
+}
+.logo1 {
+  width: 100px;
+  margin: 13px 11px 13px 0px;
+}
+.logo2 {
+  width: 100px;
+  margin: 13px 11px;
+}
+.logo3 {
+  width: 100px;
+  margin: 13px 0px 13px 11px;
+  padding-right: -12px;
+}
+ .logo img {
+	 margin-left: -94px;
+	 }
+ 
+.exclusive-offer.col-xs-12.center{
+	width: 100px !important; 
+	margin: 15px 15px 5px 170px;
+	}
+		
+/* Small devices (tablets, 768px and up) */
+
+
+@media (max-width: 568px) {
+  /*.header {
+    font-size: 28px;
+    letter-spacing: 6px;
+	font-family: 'Muli', sans-serif; 
+	font-weight: bold;   
+  }*/
+  .headline {
+    /*margin-top: -10px;*/
+    /*font-size: 37px;*/
+  }
+   html, body { 
+	margin:0; 
+	padding:0;
+	height:100%;
+	border:0 none;
+	background-color:#6ea1d6;
+	background: url("../images/background_patchology_mobile01.jpg") no-repeat center center fixed !important;
+	   
+	/*overflow: auto;*/
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Quattrocento Sans', sans-serif;
+    font-style: normal;
+    font-weight: 300;   
+}
+
+	
+.content-col.col-xs-10.col-xs-offset-1.col-sm-7.col-sm-offset-0.col-md-6.col-md-offset-0.col-lg-5.col-lg-offset-1 {
+    width: 88% !important;
+    margin-left: 33px !important;
+	background-color:rgba(255,255,255, 0.8) !important;
+}
+.logo_tablet {
+	height: 78px !important;
+	}
+img.tablet {
+	display: none !important;
+	}
+.exclusive-offer.col-xs-12.center {
+     margin: 5px 15px 0 214px !important;
+	
+	}
+	
+	h1.header {
+    font-size: 30px !important;
+	}
+	.btn {
+    margin: 7px 0 30px 133px !important;
+	    height: 38px !important;
+	}
+		
+	div.col-xs-12.mobile_image {
+		display: block !important;
+	}
+	
+	/*.checkbox {
+    margin-left: 60px !important;
+}*/
+
+.checkbox input[type=checkbox] {
+       margin-left: -28px !important;
+}
+	
+	
+	div.col-xs-12.mobile_image {
+		padding-left: 0px !important;
+		padding-right: 0px !important;
+	}
+	
+  /*h2.subheadline {
+	  margin-left: 40px !important;
+	  margin-right: 40px !important;
+	  margin-bottom: 8px !important;
+	  font-size:15px;
+	}*/
+	
+	.copy {
+		margin: 0px 23px 14px 23px !important;
+		font-size:15px;
+		line-height: 22px;
+	}
+	
+	#theForm {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+	
+	.col-xs-offset-1 {
+		margin-left:0% !important;
+	}
+	
+	.col-xs-10 {
+		width:100% !important;
+	}
+	
+	div.copyright p {
+		margin-bottom:0px;
+		 font-size: 12px !important;
+		 margin-top: 8px;
+	}
+	
+
+div.content-col {
+  background: none;
+
+}
+
+   
+ 
+}
+
+@media (min-width: 569px){
+	 img.mobile {
+		 display: none !important;
+		 }
+	
+	}
+	
+	
+/* Small devices (tablets, 768px and up) */
+@media (max-width: 765px) {
+	
+	html, body { 
+	margin:0; 
+	padding:0;
+	height:100%;
+	border:0 none;
+	background-color:#6ea1d6;
+	background: url("../images/background_patchology_tablet01.jpg") no-repeat center center fixed; 
+	/*overflow: auto;*/
+	  -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;	
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-style: normal;
+  font-weight: 300;
+}
+	
+.content-col.col-xs-10.col-xs-offset-1.col-sm-7.col-sm-offset-0.col-md-6.col-md-offset-0.col-lg-5.col-lg-offset-1 {
+	height: 807px;
+	background-color:rgba(255,255,255, 0.8) !important;
+	}
+	div.col-xs-12.mobile_image {
+		display: none;
+	}
+	
+	
+	div.content-col {
+  background: none;
+
+}
+	
+  h1.header {
+    font-size: 25px;
+  }
+	
+  h1.headline {
+    font-size: 25px;
+	margin-bottom: 0px;  
+  }
+ 
+  /*h2.subheadline {
+	  margin-left: 0px;
+	  margin-right: 0px;
+	  font-size:18px;
+	}*/
+   .copy {
+    margin: 0px 0px 9px 0px;
+    font-size: 15px;
+   }
+	
+	div.col-xs-12.mobile_image {
+		display: none;
+	}
+	
+	input.formfield_zip {
+		width: 100%;
+		margin-bottom: 11px;
+	} 
+	.exclusive-offer.col-xs-12.center {
+    width: 70px !important;
+    margin: 5px 15px 0 265px;
+	}
+	h1.header {
+		font-size: 36px;
+		text-align: center;
+	}
+  	.copy {
+    margin: 0px 11px 13px 11px;
+    font-size: 14px;
+    text-align: center;
+    line-height: 26px;
+	}
+	.blk-bar {
+    background-color: #000;
+    height: 7px;
+    width: 78px;
+    margin-bottom: 26px;
+    margin: 0 auto;
+	}
+	.form-group {
+    margin-bottom:0;
+	height: 49px;
+}
+	div.input-info div.row div.col-sm-6.form-group {
+	margin-bottom: -5 !important;
+	height: 35px !important;
+}
+	ul {
+    font-size: 10px;
+    line-height: -1px;
+    
+	}
+	
+	input.formfield_first_name, input.formfield_last_name, input.formfield_email, input.formfield_zip {
+    width: 96%;
+    margin-bottom: -2px;
+    height: 27px;
+	}
+	.input-info {
+	margin-top: 16px;
+	}
+	.logo {
+    display: none;
+}
+
+label {
+    color: #858587;
+    line-height: -1px;
+	margin-bottom: 0 !important;
+	font-size: 12px;
+}
+
+.btn {
+	 margin: 7px 0 30px 222px;
+	 font-size: 13px;
+	 width: 145px;
+   	 height: 44px;
+	}
+/*.checkbox {
+	margin-left: 128px;
+	}*/
+	
+	img.tablet {
+		display:none;
+		}	
+}
+
+
+@media (min-width: 765px){
+	
+		img.mobile-small {display:none;}
+		
+		img.tablet {display:none;}
+		
+	}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+	
+.content-col.col-xs-10.col-xs-offset-1.col-sm-7.col-sm-offset-0.col-md-6.col-md-offset-0.col-lg-5.col-lg-offset-1 {
+		background-color:rgba(255,255,255, 0.8) !important;
+}
+	
+	div.col-xs-12.mobile_image {
+		display: none !important;
+	}
+  
+	.copy {
+	  font-size: 15px;
+	}
+  
+  input.formfield_first_name,
+  input.formfield_email {
+    /*width: 47%;*/
+  }
+  input.formfield_last_name {
+   /*width: 47%;
+    margin-left: 5%;*/
+  }
+  input.formfield_zip {
+    /*width: 47%;
+    margin-left: 5%;*/
+  }
+  /*.btn {
+    width: 47%;
+  }*/
+}
+
+ 
+
+
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+	
+	div.logo {
+	margin-left: -18.666667% !important;
+}
+
+.logo img {
+    margin-left: -35px !important;
+}
+	
+	.copy {
+	  font-size: 19px;
+	  font-style: normal;
+	  color: #858587;	
+	}
+	
+	div.col-xs-12.mobile_image {
+		display: none;
+	}
+	.content-col.col-xs-10.col-xs-offset-1.col-sm-7.col-sm-offset-0.col-md-6.col-md-offset-0.col-lg-5.col-lg-offset-1 {
+		/* margin-left: -14.666667%;*/
+		 margin-top: 10px;
+		 background-color:none !important;
+		 margin-left: -2.666667% !important;
+		}
+	.container {
+    width: 1086px;
+	}
+
+}
+
+@media (max-width: 480px) {
+	
+	 html, body { 
+	margin:0; 
+	padding:0;
+	height:100%;
+	border:0 none;
+	background-color:#6ea1d6;
+	background: url("../images/background_patchology_mobile-small02.jpg") no-repeat center center fixed !important;
+	   
+	/*overflow: auto;*/
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Quattrocento Sans', sans-serif;
+    font-style: normal;
+    font-weight: 300;   
+}
+
+	h1.header {
+    font-size: 37px !important;
+}
+
+.exclusive-offer.col-xs-12.center {
+    margin: 5px 15px 0 134px !important;
+}
+.copy {
+    margin: 0px 0px 8px 0px !important
+}
+.content-col.col-xs-10.col-xs-offset-1.col-sm-7.col-sm-offset-0.col-md-6.col-md-offset-0.col-lg-5.col-lg-offset-1 {
+    width: 84% !important;
+}
+
+.content-col.col-xs-10.col-xs-offset-1.col-sm-7.col-sm-offset-0.col-md-6.col-md-offset-0.col-lg-5.col-lg-offset-1 {
+    height: 869px;
+}
+.checkbox {
+    margin-left: 8px !important;
+	}	
+	.btn {
+    margin: 7px 0 14px 61px !important;
+	}	
+	img.mobile {
+		display: none;
+		}
+		
+}
+
+@media (max-width: 399px) {
+	.content-col.col-xs-10.col-xs-offset-1.col-sm-7.col-sm-offset-0.col-md-6.col-md-offset-0.col-lg-5.col-lg-offset-1 {
+    height: 875px !important;
+}
+
+.btn {
+    margin: 7px 0 14px 27px !important;
+}
+.exclusive-offer.col-xs-12.center {
+    margin: 5px 15px 0 95px !important;
+}
+.mobile-small {
+    margin-left: -55px;
+}
+	
+	}
+
